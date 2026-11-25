@@ -1,0 +1,4 @@
+agents/sales/21-outbound-strategist.md
+agents/sales/21-proposal-strategist.md
+agents/project-management/21-project-shepherd.md
+agents/design/21-ui-designer.md

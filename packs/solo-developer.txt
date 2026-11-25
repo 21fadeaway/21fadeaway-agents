@@ -1,0 +1,4 @@
+agents/engineering/21-senior-developer.md
+agents/engineering/21-code-reviewer.md
+agents/testing/21-reality-checker.md
+agents/security/21-ai-generated-code-security-auditor.md

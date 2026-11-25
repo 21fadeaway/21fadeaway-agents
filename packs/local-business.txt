@@ -1,0 +1,4 @@
+agents/marketing/21-social-media-strategist.md
+agents/marketing/21-seo-specialist.md
+agents/specialized/21-customer-service.md
+agents/finance/21-bookkeeper-controller.md
