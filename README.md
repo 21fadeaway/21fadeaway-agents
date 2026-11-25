@@ -85,4 +85,4 @@ The original agents come from [The Agency](https://github.com/msitarzewski/agenc
 
 ---
 
-<p align="center"><b>21FADEAWAY</b> · <a href="https://21fadeaway.ro">21fadeaway.ro</a> · <a href="https://21fadeaway.ro/ai-lab.html">AI Lab</a></p>
+<p align="center"><b>21FADEAWAY</b> · <a href="https://21fadeaway.ro">21fadeaway.ro</a> · <a href="https://21fadeaway.ro/agents-lab.html">Agents Lab</a></p>
